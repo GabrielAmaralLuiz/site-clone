@@ -1,0 +1,32 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  
+}
+.cabecalho{
+    width: 1284px;
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.cabecalho loja{
+  margin: 0;
+  display: initial;
+  line-height: 1px;
+  
+  
+}
+.cabecalho central{
+  padding: 16px 0px;
+  text-align: right;
+  line-height: 16px;
+  justify-content: flex-end ;
+}
+.cabecalho ajuda{
+  padding: 16px 0px;
+  text-align: right;
+  line-height: 16px;
+  justify-content: center ;
+}
